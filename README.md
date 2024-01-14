@@ -12,7 +12,6 @@ In order to complete these exercises, open [repl.it](https://repl.it/), choose J
 
 **NEED HELP?** Practice developing your autonomy as a programmer. Use [Google Search](https://www.google.com) or [Stack Overflow](https://www.stackoverflow.com), peruse documentation at [mdn.io](https://www.mdn.io), or talk to your friendly neighbor. If you're utterly stuck, flag down your instructor for guidance.
 
-**_DISCLAIMER:_** _Completion of this workshop is no guarantee of admission into the Hack Reactor immersive program, nor does it have any influence in the admissions process._
 
 ## Slides
 
